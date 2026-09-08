@@ -1,6 +1,5 @@
 ######################################################
 ## Código: Importando dados Google Trends           ##
-## Pesquisadores: Leandro dos Santos Maciel         ##
 ##                Enrico Campos de Mira             ##
 ## Data:          18/09/2025                        ##
 ######################################################
